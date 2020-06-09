@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="btnWeather">Display Weather</string>
+    <string name="TxtTitle">Please Enter City Name</string>
+    <string name="txtHumidity">Humidity</string>
+    <string name="txtClouds">Clouds</string>
+</resources>
